@@ -19,3 +19,17 @@ I will commit code and progress throughout the Udemy course, [The Complete Node.
   14. Requiring Arguments and Advanced Yargs
   15. Arrow Functions
 2. Asynchronous Node.js (Weather App) **Completed on 12/4/2016**
+  1. Async Basics
+  2. Call Stack & Event Loop
+  3. Callback Functions & APIs
+  4. Pretty Printing Objects
+  5. What Makes up an HTTP Request?
+  6. Encoding User Input
+  7. Callback Errors
+  8. Abstracting Callbacks
+  9. Wiring Up Weather Search
+  10. Chaining Callbaks Together
+  11. Intro to ES6 Promises
+  12. Advanced Promises
+  13. Weather App With Promises
+3. Web Servers and Application Development 
