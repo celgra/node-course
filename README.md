@@ -18,4 +18,4 @@ I will commit code and progress throughout the Udemy course, [The Complete Node.
   13. Listing Notes
   14. Requiring Arguments and Advanced Yargs
   15. Arrow Functions
-2. Asynchronous Node.js (Weather App)
+2. Asynchronous Node.js (Weather App) **Completed on 12/4/2016**
